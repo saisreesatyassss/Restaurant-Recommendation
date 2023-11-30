@@ -46,7 +46,7 @@ The Restaurant Recommendation Flask App is a web application that utilizes natur
 1. Clone the repository:
 
 ```bash
-git clone [<Your GitHub Repository Link>](https://github.com/saisreesatyassss/AutoMLwebapp)
+git clone  https://github.com/saisreesatyassss/AutoMLwebapp
 ```  
 
 3.  Run the app:
